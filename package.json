@@ -1,0 +1,18 @@
+{
+  "name": "elm-review-exports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "elm-test 'src/**/*Test.elm'",
+    "review": "elm-review"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "elm-test": "^0.19.1-revision2",
+    "elm-review": "^2.2.6"
+  }
+}
