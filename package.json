@@ -9,10 +9,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "elm-test": "^0.19.1-revision2",
     "elm-review": "^2.2.6"
   }
 }

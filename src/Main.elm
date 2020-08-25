@@ -1,5 +1,7 @@
-module Main exposing (person)
+module Main exposing (..)
+
+import Other exposing (person)
 
 
-person =
-    { name = "Sam", age = 29 }
+otherPerson =
+    { person | age = 30 }
