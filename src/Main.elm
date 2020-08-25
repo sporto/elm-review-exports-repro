@@ -1,6 +1,6 @@
 module Main exposing (..)
 
-import Other exposing (person)
+import Other exposing (..)
 
 
 otherPerson =
